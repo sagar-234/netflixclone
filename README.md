@@ -1,0 +1,2 @@
+# netflixclone
+using nextjs
